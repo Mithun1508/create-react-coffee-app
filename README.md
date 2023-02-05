@@ -23,4 +23,6 @@ Please refer to its documentation:
 Getting Started – How to create a new app.
 
 User Guide – How to develop apps bootstrapped with Create React App.
- ## REFERENCES:  https://www.npmjs.com/package/react-coffee-scripts?activeTab=readme
+ ## REFERENCES:  
+ 
+https://www.npmjs.com/package/react-coffee-scripts
